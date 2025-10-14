@@ -1514,7 +1514,7 @@ See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for complete details.
 
 - 📧 **Email**: opensource@cloudpremises.org
 - 💬 **Discord**: [Join our community](https://discord.gg/cloudpremises)
-- 📖 **Documentation**: [docs.cloudpremises.com](https://docs.cloudpremises.com)
+- 📖 **Documentation**: [docs.cloudpremises.org](https://docs.cloudpremises.org)
 - 🐛 **Issue Tracker**: [GitHub Issues](https://github.com/cloud-premises/kubernetes-production-patterns/issues)
 - 💡 **Discussions**: [GitHub Discussions](https://github.com/cloud-premises/kubernetes-production-patterns/discussions)
 - 🎥 **YouTube**: [Tutorials and walkthroughs](https://youtube.com/@cloudpremises)
@@ -1522,7 +1522,7 @@ See [THIRD_PARTY_LICENSES.md](THIRD_PARTY_LICENSES.md) for complete details.
 ### Professional Support (Paid)
 
 For enterprise support, consulting, or custom pattern development:
-- 📧 Email: consulting@cloudpremises.com
+- 📧 Email: consulting@cloudpremises.org
 - 🌐 Website: [cloudpremises.org](https://cloudpremises.org)
 - 📞 Schedule: [Book a consultation](https://calendly.com/cloudpremises)
 
@@ -1637,7 +1637,7 @@ Thanks to all our contributors! 🎉
 
 ⭐ If this project helps you, please star it on GitHub!
 
-[Website](https://cloudpremises.org) • [Documentation](https://docs.cloudpremises.com) • [Blog](https://blog.cloudpremises.com) • [Twitter](https://twitter.com/cloudpremises)
+[Website](https://cloudpremises.org) • [Documentation](https://docs.cloudpremises.org) • [Blog](https://blog.cloudpremises.org) • [Twitter](https://twitter.com/cloudpremises)
 
 *Empowering teams to run Kubernetes confidently in production*
 
